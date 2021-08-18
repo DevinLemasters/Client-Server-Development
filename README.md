@@ -1,2 +1,11 @@
 # Client-Server-Development
 From my Client/Server Development class @ SNHU
+
+# How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+I like to make my code as modularized as I can. That way I am able to re-use the code in different ways if possible. For example, in the CRUD.py file you are able to input your own search query in the method's arguments to find the results that you need. In-line commenting is important also. I could definitely use this CRUD Python module in future projects involving MongoDB.
+
+# How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+As a computer scientist, I approach my problems from a logical standpoint. I try to think about how I am able to accomplish a task and find the best route possible to get there. This can have some trial and error to it, but that's all part of the title. My approach on this project was pretty similiar to other projects in the past. I establish what I want to accomplish and then set out to work my way to that goal one step at a time. My techniques are to write code in small modularized sections and then test the functionality as I progress. I will continue to use these strategies in the future.
+
+# What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer scientists use the power of computing to make life easier and automate tasks where possible to help someone or an organization reach a particular goal. My work on this project will help companies like Grazioso Salvare filter and find the results they need in a quick and easy format.
